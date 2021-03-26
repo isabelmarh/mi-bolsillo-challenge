@@ -9,7 +9,7 @@ Input
 -------
 A directed graph where a node represents a city and an edge represents a route between two cities. The edge weighting represents the distance between the two cities. A certain route will never appear more than once for a particular trip, the starting and ending city will not be the same city.
 
-![Graph image](./graph_image.svg)
+![Graph image](./images/graph_image.svg)
 
 Output
 -------
