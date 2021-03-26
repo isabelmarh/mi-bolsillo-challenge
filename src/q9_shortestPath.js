@@ -1,4 +1,4 @@
-const { graph } = require('./graph.js')
+const { graph } = require('../data/graph.js')
 
 let shortestDistanceNode = (distances, visited) => {
     // create a default value for shortest

@@ -1,4 +1,4 @@
-const { graph } = require('./graph.js')
+const { graph } = require('../data/graph.js')
 
 // @param routes is a string from A to E e.g. 'ABC', 'ADC'
 // @return the distance of the routes 

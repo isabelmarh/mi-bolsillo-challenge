@@ -58,11 +58,11 @@ git clone https://github.com/isabelmarh/mi-bolsillo-challenge.git
 cd mibolsillo
 ```
 
-Execute the different files in the terminal 
+Run the different files in the terminal 
 ```
-node q1-5.findDistance.js
-node q6-7_tripsWithMaxStops.js
-node q9_shortestPath.js
+node src/q1-5_findDistance.js
+node src/q6-7_tripsWithMaxStops.js
+node src/q9_shortestPath.js
 ```
 
 Acknowledgments
