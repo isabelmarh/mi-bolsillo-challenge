@@ -54,7 +54,7 @@ Node.js and a node global package, npm or yarn, installed in your environement.
 Install
 -------
 ```
-git clone https://github.com/isabelmarh/mibolsillo-challenge.git
+git clone https://github.com/isabelmarh/mi-bolsillo-challenge.git
 cd mibolsillo
 ```
 
